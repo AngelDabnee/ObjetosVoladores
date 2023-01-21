@@ -1,0 +1,15 @@
+C:\Users\master\source\repos\ObjetosVoladores\ObjetosVoladores\ObjetosVoladores\bin\Debug\net7.0\ObjetosVoladores.exe
+C:\Users\master\source\repos\ObjetosVoladores\ObjetosVoladores\ObjetosVoladores\bin\Debug\net7.0\ObjetosVoladores.deps.json
+C:\Users\master\source\repos\ObjetosVoladores\ObjetosVoladores\ObjetosVoladores\bin\Debug\net7.0\ObjetosVoladores.runtimeconfig.json
+C:\Users\master\source\repos\ObjetosVoladores\ObjetosVoladores\ObjetosVoladores\bin\Debug\net7.0\ObjetosVoladores.dll
+C:\Users\master\source\repos\ObjetosVoladores\ObjetosVoladores\ObjetosVoladores\bin\Debug\net7.0\ObjetosVoladores.pdb
+C:\Users\master\source\repos\ObjetosVoladores\ObjetosVoladores\ObjetosVoladores\obj\Debug\net7.0\ObjetosVoladores.csproj.AssemblyReference.cache
+C:\Users\master\source\repos\ObjetosVoladores\ObjetosVoladores\ObjetosVoladores\obj\Debug\net7.0\ObjetosVoladores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\master\source\repos\ObjetosVoladores\ObjetosVoladores\ObjetosVoladores\obj\Debug\net7.0\ObjetosVoladores.AssemblyInfoInputs.cache
+C:\Users\master\source\repos\ObjetosVoladores\ObjetosVoladores\ObjetosVoladores\obj\Debug\net7.0\ObjetosVoladores.AssemblyInfo.cs
+C:\Users\master\source\repos\ObjetosVoladores\ObjetosVoladores\ObjetosVoladores\obj\Debug\net7.0\ObjetosVoladores.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\ObjetosVoladores\ObjetosVoladores\ObjetosVoladores\obj\Debug\net7.0\ObjetosVoladores.dll
+C:\Users\master\source\repos\ObjetosVoladores\ObjetosVoladores\ObjetosVoladores\obj\Debug\net7.0\refint\ObjetosVoladores.dll
+C:\Users\master\source\repos\ObjetosVoladores\ObjetosVoladores\ObjetosVoladores\obj\Debug\net7.0\ObjetosVoladores.pdb
+C:\Users\master\source\repos\ObjetosVoladores\ObjetosVoladores\ObjetosVoladores\obj\Debug\net7.0\ObjetosVoladores.genruntimeconfig.cache
+C:\Users\master\source\repos\ObjetosVoladores\ObjetosVoladores\ObjetosVoladores\obj\Debug\net7.0\ref\ObjetosVoladores.dll
