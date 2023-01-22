@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ObjetosVoladores
 {
-    public class Helicoptero : Vehiculo, IVolador
+    public class Helicoptero : Vehiculo, IVolador, ITransporte
     {
         public Helicoptero() 
         {
@@ -75,6 +75,17 @@ namespace ObjetosVoladores
         public void Encender() 
         {
             encender();
+        }
+
+        public bool carga()
+        {
+            return false;
+        }
+
+        public bool descarga()
+        {
+            Console.WriteLine("Este Helicoptero se utiliza para desargar");
+            return true;
         }
         public string ToString() 
         {
