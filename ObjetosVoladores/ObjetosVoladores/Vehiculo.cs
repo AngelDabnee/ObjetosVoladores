@@ -30,7 +30,9 @@ namespace ObjetosVoladores
             EN_TRANSITO,
             DESPEGANDO,
             ATERRIZANDO,
-
+            VOLANDO,
+            COMUNICANDO,
+            CARGANDO
         }
     }
 } //Terminamos la clase ABSTRACTA
