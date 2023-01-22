@@ -36,6 +36,8 @@ namespace ObjetosVoladores // Note: actual namespace depends on the project name
             helicoptero1.volar(1);
             helicoptero1.Comunicar();
             helicoptero1.aterrizar();
+            helicoptero1.carga();
+            helicoptero1.descarga();
             Console.WriteLine(helicoptero1.ToString());
             //Iniciamos con la creación de un avión de carga de pasajeros. 
             Console.WriteLine("Daremos las especificaciones de un Avion de Pasajeros");
